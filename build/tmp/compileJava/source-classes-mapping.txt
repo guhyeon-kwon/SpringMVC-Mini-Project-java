@@ -1,24 +1,30 @@
-kr/co/springtest/config/RootAppContext.java
- kr.co.springtest.config.RootAppContext
 kr/co/springtest/controller/MainController.java
  kr.co.springtest.controller.MainController
-kr/co/springtest/config/ServletAppContext.java
- kr.co.springtest.config.ServletAppContext
-kr/co/springtest/database/MapperInterface.java
- kr.co.springtest.database.MapperInterface
-kr/co/springtest/config/SpringConfigClass.java
- kr.co.springtest.config.SpringConfigClass
-kr/co/springtest/dao/TestDao.java
- kr.co.springtest.dao.TestDao
-kr/co/springtest/beans/RestDataBean.java
- kr.co.springtest.beans.RestDataBean
+kr/co/springtest/beans/BoardInfoBean.java
+ kr.co.springtest.beans.BoardInfoBean
 kr/co/springtest/controller/HomeController.java
  kr.co.springtest.controller.HomeController
-kr/co/springtest/service/TestService.java
- kr.co.springtest.service.TestService
-kr/co/springtest/beans/DataBean.java
- kr.co.springtest.beans.DataBean
-kr/co/springtest/controller/UserController.java
- kr.co.springtest.controller.UserController
+kr/co/springtest/beans/UserBean.java
+ kr.co.springtest.beans.UserBean
+kr/co/springtest/config/RootAppContext.java
+ kr.co.springtest.config.RootAppContext
+kr/co/springtest/beans/ContentBean.java
+ kr.co.springtest.beans.ContentBean
 kr/co/springtest/controller/BoardController.java
  kr.co.springtest.controller.BoardController
+kr/co/springtest/mapper/BoardMapper.java
+ kr.co.springtest.mapper.BoardMapper
+kr/co/springtest/controller/UserController.java
+ kr.co.springtest.controller.UserController
+kr/co/springtest/dao/TopMenuDao.java
+ kr.co.springtest.dao.TopMenuDao
+kr/co/springtest/mapper/TopMenuMapper.java
+ kr.co.springtest.mapper.TopMenuMapper
+kr/co/springtest/config/ServletAppContext.java
+ kr.co.springtest.config.ServletAppContext
+kr/co/springtest/config/SpringConfigClass.java
+ kr.co.springtest.config.SpringConfigClass
+kr/co/springtest/service/TopMenuService.java
+ kr.co.springtest.service.TopMenuService
+kr/co/springtest/interceptor/TopMenuInterceptor.java
+ kr.co.springtest.interceptor.TopMenuInterceptor
